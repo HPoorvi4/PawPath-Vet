@@ -2,6 +2,7 @@ import React, { useState, useRef } from "react";
 import axios from "axios";
 import { useNavigate, Link } from "react-router-dom";
 import Webcam from "react-webcam";
+import "../../styles/Register.css";
 
 
 export default function VetRegister() {
