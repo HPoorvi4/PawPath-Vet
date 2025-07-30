@@ -1,0 +1,26 @@
+{
+  "name": "PawPath-Vet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-webcam": "^7.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPoorvi4/PawPath-Vet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HPoorvi4/PawPath-Vet/issues"
+  },
+  "homepage": "https://github.com/HPoorvi4/PawPath-Vet#readme"
+}
