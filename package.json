@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-webcam": "^7.2.0"
